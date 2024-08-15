@@ -1,7 +1,10 @@
-Hello fellow software enthusiasts!
-I'm Prarthana, a passionate computer science student honing my skills in C++ programming, web development, and various aspects of software engineering. I enjoy solving complex problems, optimizing code for performance, and creating seamless user experiences. My projects are a reflection of my dedication to continuous learning and my enthusiasm for technology.
+Hello, Fellow Software Enthusiasts!
+
+I'm Prarthana, a dedicated computer science student with a strong passion for C++ programming, web development, and software engineering. My enthusiasm lies in solving complex challenges, optimizing code for peak performance, and crafting intuitive user experiences. Through my projects, I demonstrate a commitment to continuous learning and a deep-seated enthusiasm for technology.
 
 Skills
-- Programming Languages: C++, JavaScript, HTML, CSS
-- Frameworks or tools: Git, GitHub
-- Soft skills: Good communicator, avid learner, critical thinking, team management 
+
+=> Programming Languages: C, C++, MATLAB
+=> Web Development: HTML, CSS, JavaScript, ReactJS
+=> Frameworks & Tools: Git, GitHub
+=> Soft Skills: Effective communication, continuous learning, critical thinking, team management
