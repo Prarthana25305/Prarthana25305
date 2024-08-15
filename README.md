@@ -5,6 +5,9 @@ I'm Prarthana, a dedicated computer science student with a strong passion for C+
 Skills
 
 => Programming Languages: C, C++, MATLAB
+
 => Web Development: HTML, CSS, JavaScript, ReactJS
+
 => Frameworks & Tools: Git, GitHub
+
 => Soft Skills: Effective communication, continuous learning, critical thinking, team management
