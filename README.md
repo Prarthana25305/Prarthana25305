@@ -6,7 +6,7 @@ Skills
 
 => Programming Languages: C, C++, MATLAB
 
-=> Web Development: HTML, CSS, JavaScript, ReactJS
+=> Web Development: HTML, CSS, JavaScript
 
 => Frameworks & Tools: Git, GitHub
 
